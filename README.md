@@ -37,10 +37,15 @@ pip install torch torchvision pillow
 Car_Bike_Dataset
 
 ├── train
+
 │   ├── Car
+
 │   └── Bike
+
 └── val
+
     ├── Car
+    
     └── Bike
 
 Used Dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
