@@ -32,19 +32,7 @@ pip install torch torchvision pillow
 
 ### Training the Model
 
-1. Prepare your dataset in the following structure:
-
-Car_Bike_Dataset
-
-
-.
-├── ...
-├── test                    # Test files (alternatively `spec` or `tests`)
-│   ├── benchmarks          # Load and stress tests
-│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-│   └── unit                # Unit tests
-└── ...
-
+1. Prepare your dataset in the give structure:
 
 Used Dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
 
