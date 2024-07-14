@@ -3,6 +3,9 @@
 ## Project Overview
 This project implements a deep learning model to classify images as either cars or bikes. It uses a pre-trained ResNet18 model, fine-tuned on a custom dataset of car and bike images.
 
+![ss](https://github.com/user-attachments/assets/acea608f-f436-4999-9c92-216f167d5b79)
+
+
 ## Features
 - Utilizes transfer learning with a pre-trained ResNet18 model
 - Custom dataset handling for car and bike images
