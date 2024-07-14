@@ -21,11 +21,11 @@ This project implements a deep learning model to classify images as either cars 
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/car-bike-classification.git](https://github.com/BimsaraS99/ResNet18-CarBike-Classifier-PyTorch)
+      git clone [https://github.com/your-username/car-bike-classification.git](https://github.com/BimsaraS99/ResNet18-CarBike-Classifier-PyTorch)
 
 2. Install the required dependencies:
 
-pip install torch torchvision pillow
+      pip install torch torchvision pillow
 
 
 ## Usage
