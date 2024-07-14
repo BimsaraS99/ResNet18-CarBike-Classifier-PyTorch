@@ -34,7 +34,7 @@ This project implements a deep learning model to classify images as either cars 
 
 1. Prepare your dataset in the give structure:
 
-Used Dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
+      Used Dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
 
 2. Run the training script
 
