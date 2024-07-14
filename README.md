@@ -36,13 +36,14 @@ pip install torch torchvision pillow
 
 Car_Bike_Dataset
 
-├── Car_Bike_Dataset/
-│   ├── train/
-│   │   ├── Car/
-│   │   └── Bike/
-│   └── val/
-│       ├── Car/
-│       └── Bike/
+
+.
+├── ...
+├── test                    # Test files (alternatively `spec` or `tests`)
+│   ├── benchmarks          # Load and stress tests
+│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+│   └── unit                # Unit tests
+└── ...
 
 
 Used Dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
