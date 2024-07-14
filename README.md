@@ -43,9 +43,7 @@ Car_Bike_Dataset
 │   └── Bike
 
 └── val
-
     ├── Car
-    
     └── Bike
 
 Used Dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
