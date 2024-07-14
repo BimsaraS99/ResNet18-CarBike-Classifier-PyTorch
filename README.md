@@ -34,8 +34,6 @@ pip install torch torchvision pillow
 
 1. Prepare your dataset in the following structure:
 
-Car_Bike_Dataset
-
 Car_Bike_Dataset/
 ├── train/
 │   ├── Car/
